@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(9, 39, 29);
+}
+
+h1 {
+    color: #FFF;
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.purpose {
+    background-color: #FFF;
+    color: black;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.footer-buttons {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #FFF;
+    color: black;
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.foot-button {
+    width: 100px;
+}
+
+#start-seq {
+    padding-top: 1rem;
+}
+
+.fibinocci{
+    text-align: center;
+}
+
+.dark-section{
+    color: #FFF;
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+#color-change-section{
+    background-color: green;
+}
